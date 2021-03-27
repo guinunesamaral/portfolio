@@ -1,0 +1,36 @@
+.greetings {
+  margin-top: 50px;
+}
+
+.greetings__wrapper {
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+.greetings__title {
+  margin-bottom: 30px;
+}
+
+.greetings__container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.greetings__msg {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.greetings__img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  margin: 0 30px;
+}
+
+.greetings__paragraph {
+  color: var(--black-1);
+  text-align: justify;
+  line-height: 27px;
+}

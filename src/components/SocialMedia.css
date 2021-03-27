@@ -1,0 +1,43 @@
+.socialMedia {
+  margin-top: 50px;
+}
+
+.socialMedia__wrapper {
+  max-width: 70%;
+  margin: 0 auto;
+}
+
+.socialMedia__title {
+  margin-bottom: 30px;
+}
+
+.socialMedia__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.socialMedia__li {
+  cursor: pointer;
+  transition: 0.3s;
+  list-style-type: none;
+  padding: 20px 30px;
+  margin: 10px;
+  border: 2px solid var(--black-1);
+}
+
+.socialMedia__link {
+  transition: 0.3s;
+  color: var(--black-1);
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.socialMedia__li:hover .socialMedia__link {
+  color: white;
+}
+
+.socialMedia__li:hover {
+  color: white;
+  background-color: var(--black-1);
+}

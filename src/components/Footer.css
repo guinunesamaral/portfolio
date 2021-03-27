@@ -1,0 +1,12 @@
+.footer__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 50px 10px 10px 10px;
+  padding: 30px;
+}
+
+.footer__paragraph {
+  font-weight: bold;
+  font-size: 17px;
+}
