@@ -10,6 +10,7 @@ export const SocialMedia = () => {
           <li className="socialMedia__li">
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://gab.com/"
               className="socialMedia__link"
             >
@@ -19,6 +20,7 @@ export const SocialMedia = () => {
           <li className="socialMedia__li">
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://twitter.com/"
               className="socialMedia__link"
             >
@@ -28,6 +30,7 @@ export const SocialMedia = () => {
           <li className="socialMedia__li">
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://www.linkedin.com/in/guilherme-nunes-amaral/"
               className="socialMedia__link"
             >
@@ -37,6 +40,7 @@ export const SocialMedia = () => {
           <li className="socialMedia__li">
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://github.com/guinunesamaral"
               className="socialMedia__link"
             >
@@ -44,12 +48,22 @@ export const SocialMedia = () => {
             </a>
           </li>
           <li className="socialMedia__li">
-            <a target="_blank" href="" className="socialMedia__link">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://duckduckgo.com"
+              className="socialMedia__link"
+            >
               Email
             </a>
           </li>
           <li className="socialMedia__li">
-            <a target="_blank" href="" className="socialMedia__link">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://duckduckgo.com"
+              className="socialMedia__link"
+            >
               Instagram
             </a>
           </li>

@@ -8,7 +8,7 @@ export const Greetings = () => {
       <div className="greetings__wrapper">
         <h3 className="greetings__title">Hi there!</h3>
         <div className="greetings__container">
-          <img src={Photo} alt="photo" className="greetings__img" />
+          <img src={Photo} alt="my-img" className="greetings__img" />
           <div className="greetings__msg">
             <p className="greetings__paragraph">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi
