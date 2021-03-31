@@ -1,7 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+:root {
+  --white-1: #f1f1f1;
+  --black-1: #201f1f;
+  --gray-1: #888888;
+  --gray-2: #555555;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+a,
+h1,
+h2,
+h3,
+p,
+.input {
+  font-family: "Roboto", sans-serif;
 }
 
 .App {
