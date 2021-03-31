@@ -1,0 +1,43 @@
+.projects {
+  width: 70%;
+  margin: 50px auto 0 auto;
+}
+
+.projects__mainTitle {
+  margin-bottom: 30px;
+}
+
+.projects__instance {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.projects__link {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.projects__link a {
+  color: black;
+  text-decoration: none;
+  margin-left: 10px;
+  padding: 0;
+}
+
+.projects__link svg {
+  margin-top: 2px;
+}
+
+.projects__container {
+  margin: 0 20px 30px 30px;
+}
+
+.projects__img {
+  width: 100%;
+  height: 340px;
+}
+
+.projects__description {
+  text-align: justify;
+  line-height: 28px;
+}
