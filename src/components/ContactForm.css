@@ -1,0 +1,30 @@
+.contact {
+  width: 70%;
+  margin: 50px auto 0 auto;
+}
+
+.contact__title {
+  margin-bottom: 30px;
+}
+
+.contact__form {
+  width: 90%;
+  margin: 0 auto;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.input {
+  text-align: justify;
+  font-size: 16px;
+  margin-bottom: 20px;
+  padding: 10px 8px;
+  border: 1px solid var(--black-1);
+}
+
+.input__message {
+  resize: none;
+}
