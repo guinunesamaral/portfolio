@@ -4,6 +4,10 @@ import { Home } from "./screens/Home";
 import { Projects } from "./screens/Projects";
 import { Contact } from "./screens/Contact";
 
+/**
+ * TODO: Toggle dark mode
+/
+
 function App() {
   return (
     <div className="App">
